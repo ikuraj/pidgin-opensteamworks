@@ -1,0 +1,2 @@
+If this is the first time you have downloaded this plugin:
+  * Download [the json-glib library](http://pidgin-opensteamworks.googlecode.com/svn/trunk/steam-mobile/libjson-glib-1.0.dll) into your `Program Files (x86)\Pidgin` folder (or `Program Files\Pidgin`), _**NOT** into the plugins folder_
